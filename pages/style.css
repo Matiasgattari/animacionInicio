@@ -1,3 +1,7 @@
+
+
+/* Fuentes pantalla de ingreso */
+
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 /* font-family: 'Macondo', cursive; */
 
@@ -18,7 +22,7 @@
     animation-duration: 4s;
     animation-delay: 0ms;
     animation-fill-mode: forwards;
-    animation-name: zoom;
+    animation-name: zoom1;
 
     overflow: hidden;
 
@@ -82,7 +86,7 @@
 
 }
 
-@keyframes zoom {
+@keyframes zoom1 {
     0% {
         transform: scale(0.6)
     }
